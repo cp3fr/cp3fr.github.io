@@ -11,6 +11,57 @@
     <loc>https://cp3fr.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cp3fr.github.io/publication-type/2/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/aerial-systems-perception-and-autonomy/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/automobiles/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/drones/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/eye-tracking/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/human-factors-and-human-in-the-loop/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/publication/pfeiffer-2021-a/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/logic-gates/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/perception-action-coupling/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/publication_types/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/publication/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/roads/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tags/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/tracking/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/vehicles/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/vision-based-navigation/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/visualization/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cp3fr.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,9 +74,6 @@
     <loc>https://cp3fr.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cp3fr.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://cp3fr.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -35,11 +83,35 @@
     <loc>https://cp3fr.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cp3fr.github.io/publication/pfeiffer-2020/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cp3fr.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cp3fr.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/publication/pfeiffer-2017/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/cardiac-arrest/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/coma/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/eeg/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/mismatch-negativity/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/multivariate-decoding/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/targeted-temperature-management/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cp3fr.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
@@ -50,17 +122,68 @@
     <loc>https://cp3fr.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cp3fr.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://cp3fr.github.io/publication/pfeiffer-2016/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cp3fr.github.io/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://cp3fr.github.io/tag/electrical-neuroimaging/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cp3fr.github.io/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://cp3fr.github.io/tag/first-person-perspective/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cp3fr.github.io/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://cp3fr.github.io/tag/full-body-illusion/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/gravity/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/multisensory-integration/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/multisensory-processing/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/self-consciousness/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/somatosensory-cortex/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/somatosensory-evoked-potentials/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/vestibular-system/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/virtual-reality/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/publication/pfeiffer-2016-a/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/bodily-self-consciousness/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/body-representation/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/mental-spatial-transformation/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/self-location/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/self-motion/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/publication/pfeiffer-2014-a/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/tag/vestibular-cortex/</loc>
+    <lastmod>2014-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cp3fr.github.io/publication/pfeiffer-2013/</loc>
+    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cp3fr.github.io/admin/</loc>
   </url>
