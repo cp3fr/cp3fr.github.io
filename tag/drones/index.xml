@@ -5,7 +5,7 @@
     <link>https://cp3fr.github.io/tag/drones/</link>
       <atom:link href="https://cp3fr.github.io/tag/drones/index.xml" rel="self" type="application/rss+xml" />
     <description>Drones</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cp3fr.github.io/media/icon_hu929ddf5762032480c958000150f71f47_9351_512x512_fill_lanczos_center_2.png</url>
       <title>Drones</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Expertise Affects Drone Racing Performance</title>
+      <link>https://cp3fr.github.io/publication/pfeiffer-2021b/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://cp3fr.github.io/publication/pfeiffer-2021b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Human-Piloted Drone Racing: Visual Processing and Control</title>
-      <link>https://cp3fr.github.io/publication/pfeiffer-2021/</link>
+      <link>https://cp3fr.github.io/publication/pfeiffer-2021a/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://cp3fr.github.io/publication/pfeiffer-2021/</guid>
+      <guid>https://cp3fr.github.io/publication/pfeiffer-2021a/</guid>
       <description></description>
     </item>
     
